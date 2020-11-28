@@ -1,5 +1,5 @@
 # TelemetryJet Homebrew Tap
-This is a [Homebrew](http://brew.sh/) tap for the TelemetryJet project. Homebrew is used to manage TelemetryJet releases on MacOS.
+This is a [Homebrew](http://brew.sh/) tap for the TelemetryJet project. Homebrew is used to manage TelemetryJet CLI releases on MacOS.
 
 ## Setup
 *You must have Homebrew installed to follow these steps.*
