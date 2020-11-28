@@ -24,5 +24,5 @@ brew upgrade telemetryjet-cli # update just the telemetryjet-cli formula
 ```
 
 ## Contributing
-- For bug reports or feature requests for the TelemetryJet Server, please refer to the main telemetryjet/telemetryjet repository.
+- For bug reports or feature requests for the TelemetryJet Server, please refer to the main [telemetryjet/telemetryjet](https://github.com/telemetryjet/telemetryjet) repository.
 - For bug reports or feature requests for the TelemetryJet CLI, please refer to the main [telemetryjet/telemetryjet-cli](https://github.com/telemetryjet/telemetryjet-cli) repository.
