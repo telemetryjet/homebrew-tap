@@ -7,7 +7,7 @@ class TelemetryjetCli < Formula
   sha256 "7ddd420ece0b445e74e1252a065035b19780974959d12a592fa03c9030d8b01d"
 
   def install
-    bin.install "jet"
+    bin.install "bin/jet"
   end
 
   test do
