@@ -4,7 +4,7 @@ class TelemetryjetCli < Formula
   license "MIT"
   version "0.1.0"
   url "https://downloads.telemetryjet.com/builds/cli/mac/telemetryjet-cli-macos_x86-64_0.1.0.zip"
-  sha256 "5e6f3731176ebd0d609e62b26a69e81e9f9b97dacbe78b0e27128fba59bd7e8f"
+  sha256 "36967ad59ee6175e36115bd893830dbf0845247d5792c91a1e780b4479d1e870"
 
   def install
     bin.install "bin/jet"
